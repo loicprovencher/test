@@ -130,6 +130,9 @@ header {
     */
 
 
+    background: url(../images/ombrelle.svg)url(../images/ombrelle.svg),linear-gradient(#a7cedd ,#265488 );
+    background: no-repeat, no-repeat, no-repeat;
+
 }
 
 .bouton2 span {
