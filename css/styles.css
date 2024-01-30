@@ -130,9 +130,10 @@ header {
     */
 
 
-    background: url(../images/ombrelle.svg)url(../images/ombrelle.svg),linear-gradient(#a7cedd ,#265488 );
-    background: no-repeat, no-repeat, no-repeat;
-
+    background: url("../images/nageur.svg") no-repeat, url("../images/ombrelle.svg") no-repeat,linear-gradient(to top, #a7cedd ,#265488 );
+    background-size: 50px 50px, 50px 50px, 100%, 100%;
+    background-position: 5% 50%,95% 50%;
+    
 }
 
 .bouton2 span {
